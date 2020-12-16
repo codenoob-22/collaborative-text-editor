@@ -14,6 +14,8 @@ some github repos to checkout for python implementations -
 
 some repos to checkout the applications built out of CRDT- 
 * https://github.com/Xuzhiqian/WYJPad
+;; this is a link to django channels
+* https://github.com/vsjakhar/Django-WebRtc/blob/master/chat/consumers-sync.py
 
 ## CRDTs
 - stands for conflict free resolution datatype
@@ -26,4 +28,4 @@ some repos to checkout the applications built out of CRDT-
     - PN Counter
     - G-Set
     - 2P-Set
-
+    - LWW
